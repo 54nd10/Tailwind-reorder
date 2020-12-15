@@ -1,0 +1,8 @@
+{
+    "filter_by": [
+        "display", "flexbox", "grid", "box-alignment",
+        "spacing", "sizing", "typography", "background",
+        "border", "effect", "table", "transition",
+        "transform", "interactivity", "svg", "accessibility"
+    ]
+}
