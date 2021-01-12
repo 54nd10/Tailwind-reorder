@@ -1,0 +1,50 @@
+[
+    {
+        "caption": "Preferences: Tailwind-reorder Key Bindings – Default",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/Tailwind-reorder/Default (Windows).sublime-keymap",
+            "platform": "Windows"
+        }
+    },
+    {
+        "caption": "Preferences: Tailwind-reorder Key Bindings – Default",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/Tailwind-reorder/Default (OSX).sublime-keymap",
+            "platform": "OSX"
+        }
+    },
+    {
+        "caption": "Preferences: Tailwind-reorder Key Bindings – Default",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/Tailwind-reorder/Default (Linux).sublime-keymap",
+            "platform": "Linux"
+        }
+    },
+    {
+        "caption": "Preferences: Tailwind-reorder Key Bindings – User",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/User/Default (Windows).sublime-keymap",
+            "platform": "Windows"
+        }
+    },
+    {
+        "caption": "Preferences: Tailwind-reorder Key Bindings – User",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/User/Default (OSX).sublime-keymap",
+            "platform": "OSX"
+        }
+    },
+    {
+        "caption": "Preferences: Tailwind-reorder Key Bindings – User",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/User/Default (Linux).sublime-keymap",
+            "platform": "Linux"
+        }
+    }
+]
