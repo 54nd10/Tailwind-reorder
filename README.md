@@ -7,4 +7,4 @@ A sublime package which will reorganize your tailwinds classes
 ### Shortcut on windows and linux:
 ``` ctrl+shift+o ```
 
-© 2020 54nd10
+© 2021 54nd10
