@@ -4,10 +4,10 @@ import json
 import re
 
 
-class TailwindReorderCommand(sublime_plugin.TextCommand):
+class TailwindOrderCommand(sublime_plugin.TextCommand):
 
     def create_filters(self):
-        settings = sublime.load_settings('tailwind-reorder.sublime-settings')
+        settings = sublime.load_settings('tailwind-order.sublime-settings')
         filter_by = {}
         for item in settings.get('filter_by'):
             filter_by[item] = []

@@ -1,10 +1,10 @@
-# Tailwind reorder
+# Tailwind order
 
-A sublime package which will reorganize your tailwinds classes
+A sublime package to organize tailwindcss classes, fork of the non-working TailwindReorder
 
 ### Shortcut on MacOS:
 ``` cmd+shift+o ```
 ### Shortcut on windows and linux:
 ``` ctrl+shift+o ```
 
-© 2021 54nd10
+by Pharos 2022
