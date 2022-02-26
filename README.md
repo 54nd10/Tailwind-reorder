@@ -1,4 +1,4 @@
-# Tailwind order
+# Tailwind Order
 
 A sublime package to organize tailwindcss classes in your html files, fork of the non-working Tailwind-reorder.
 
