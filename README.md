@@ -1,10 +1,15 @@
 # Tailwind order
 
-A sublime package to organize tailwindcss classes, fork of the non-working TailwindReorder
+A sublime package to organize tailwindcss classes in your html files, fork of the non-working Tailwind-reorder.
+
+Steps to install in Sublime Text:
+
+1) Add this repository in Tools -> Comand palette -> Package Control: Add repository
+2) The package should now be available to install in Tools -> Comand palette -> Package control: Install Package -> Tailwind Order by cwsuba
 
 ### Shortcut on MacOS:
 ``` cmd+shift+o ```
 ### Shortcut on windows and linux:
 ``` ctrl+shift+o ```
 
-by Pharos 2022
+by Cwsuba 2022
