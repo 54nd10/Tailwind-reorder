@@ -4,10 +4,10 @@ import json
 import re
 
 
-class TailwindReorderCommand(sublime_plugin.TextCommand):
+class TailwindOrderCommand(sublime_plugin.TextCommand):
 
     def create_filters(self):
-        settings = sublime.load_settings('tailwind-reorder.sublime-settings')
+        settings = sublime.load_settings('tailwind-order.sublime-settings')
         filter_by = {}
         for item in settings.get('filter_by'):
             filter_by[item] = []
@@ -17,7 +17,7 @@ class TailwindReorderCommand(sublime_plugin.TextCommand):
         file = sublime.load_resource(sublime.find_resources('data.json')[0])
         file = json.loads(file)
         dif = 0
-        classes = self.view.find_all('(?<=class=")(.*)(?=")')
+        classes = self.view.find_all('(?<=class=")(.*?)(?=")')
         for item in classes:
             filters = self.create_filters()
             item.a += dif

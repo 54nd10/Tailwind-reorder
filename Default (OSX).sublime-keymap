@@ -1,3 +1,3 @@
 [
-    { "keys": ["super+shift+o"], "command": "tailwind_reorder", "context": [] },
+    { "keys": ["super+shift+o"], "command": "tailwind_order", "context": [] },
 ]

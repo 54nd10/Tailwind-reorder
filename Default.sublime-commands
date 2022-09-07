@@ -1,30 +1,30 @@
 [
     {
-        "caption": "Preferences: Tailwind-reorder Key Bindings – Default",
+        "caption": "Preferences: Tailwind-order Key Bindings – Default",
         "command": "open_file",
         "args": {
-            "file": "${packages}/Tailwind-reorder/Default (Windows).sublime-keymap",
+            "file": "${packages}/Tailwind-order/Default (Windows).sublime-keymap",
             "platform": "Windows"
         }
     },
     {
-        "caption": "Preferences: Tailwind-reorder Key Bindings – Default",
+        "caption": "Preferences: Tailwind-order Key Bindings – Default",
         "command": "open_file",
         "args": {
-            "file": "${packages}/Tailwind-reorder/Default (OSX).sublime-keymap",
+            "file": "${packages}/Tailwind-order/Default (OSX).sublime-keymap",
             "platform": "OSX"
         }
     },
     {
-        "caption": "Preferences: Tailwind-reorder Key Bindings – Default",
+        "caption": "Preferences: Tailwind-order Key Bindings – Default",
         "command": "open_file",
         "args": {
-            "file": "${packages}/Tailwind-reorder/Default (Linux).sublime-keymap",
+            "file": "${packages}/Tailwind-order/Default (Linux).sublime-keymap",
             "platform": "Linux"
         }
     },
     {
-        "caption": "Preferences: Tailwind-reorder Key Bindings – User",
+        "caption": "Preferences: Tailwind-order Key Bindings – User",
         "command": "open_file",
         "args": {
             "file": "${packages}/User/Default (Windows).sublime-keymap",
@@ -32,7 +32,7 @@
         }
     },
     {
-        "caption": "Preferences: Tailwind-reorder Key Bindings – User",
+        "caption": "Preferences: Tailwind-order Key Bindings – User",
         "command": "open_file",
         "args": {
             "file": "${packages}/User/Default (OSX).sublime-keymap",
@@ -40,7 +40,7 @@
         }
     },
     {
-        "caption": "Preferences: Tailwind-reorder Key Bindings – User",
+        "caption": "Preferences: Tailwind-order Key Bindings – User",
         "command": "open_file",
         "args": {
             "file": "${packages}/User/Default (Linux).sublime-keymap",
