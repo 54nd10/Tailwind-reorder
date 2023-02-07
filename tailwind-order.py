@@ -17,7 +17,7 @@ class TailwindOrderCommand(sublime_plugin.TextCommand):
         file = sublime.load_resource(sublime.find_resources('data.json')[0])
         file = json.loads(file)
         dif = 0
-        classes = self.view.find_all('(?<=class=")(.*?)(?=")')
+        classes = self.view.find_all('(?<=class="|className=")(.*?)(?=")')
         for item in classes:
             filters = self.create_filters()
             item.a += dif
